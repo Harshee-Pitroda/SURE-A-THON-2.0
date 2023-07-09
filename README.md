@@ -16,5 +16,8 @@ drive local economic growth.
 
 - [@JinkaChenchuDharani
 @RaghaviSada
-@CVJaswanthiReddy](https://www.github.com/octokatherine)
+@CVJaswanthiReddy]
+(https://github.com/JinkaChenchuDharani)
+(https://github.com/RaghaviSada)
+(https://github.com/CVJaswanthiReddy)
 
