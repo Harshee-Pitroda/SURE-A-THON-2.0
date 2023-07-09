@@ -1,4 +1,3 @@
-
 TechTools
 
 Our website mainly consists of tech tools that were being used by most of the students.We classify the tech tools based on the engineering branches .Here we provide all mostly used tools like VS code,Pycharm,Jupyter etc...
@@ -7,7 +6,7 @@ Our website mainly consists of tech tools that were being used by most of the st
 
 Why this ?
 
-    TechTools is a user-friendly website designed specifically for engineers, developers, and tech enthusiasts. Our platform serves as a one-stop destination for discovering and accessing a wide range of engineering tech tools, including Integrated Development Environments (IDEs), software libraries, frameworks, and more. With TechTools, finding and downloading the essential tools you need for your engineering projects has never been easier.
+TechTools is a user-friendly website designed specifically for engineers, developers, and tech enthusiasts. Our platform serves as a one-stop destination for discovering and accessing a wide range of engineering tech tools, including Integrated Development Environments (IDEs), software libraries, frameworks, and more. With TechTools, finding and downloading the essential tools you need for your engineering projects has never been easier.
 
 Key Features:
 
@@ -28,10 +27,13 @@ As this is a still Developing Website...
 
 Developers
 
-    [@Aysahkhan01 @anandrevanthkumar]
+    [@Aysahkhan01 @anandrevanthkumar @Nagajyothirmayi-1599 @rupesh4950]
 
 (https://www.github.com/Ayshakhan01)
 
 (https://www.github.com/anandrevanthkumar)
 
+(https://www.github.com/Nagajyothirmayi-1599)
+
+(https://www.github.com/rupesh4950)
 
