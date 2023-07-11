@@ -32,7 +32,7 @@ Key Features:
 
 #Developers
 - [@Aysahkhan01 @anandrevanthkumar @Nagajyothirmayi-1599 @rupesh4950]
-- 
+  
 (https://www.github.com/Ayshakhan01)
 
 (https://www.github.com/anandrevanthkumar)
