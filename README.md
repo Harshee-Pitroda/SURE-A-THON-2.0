@@ -1,53 +1,41 @@
-<br />
 
-<div align="center">
-<img src='https://media.licdn.com/dms/image/C560BAQH8c3D8-3BTuA/company-logo_200_200/0/1679684096486?e=2147483647&v=beta&t=GIAmWhTXxLyjw76NAMD4Tqywewd4IovY0Wm9uUejFeU' width="100 px" height="100 px" />
+# TechTools
 
 
 
-<h3 align="center"SURE-A-THON 2.0 Main Repository</h3>
-</div>
+Our website mainly consists of tech tools that were being
+used by most of the students.We classify the tech tools based
+on the engineering branches .Here we provide all mostly used
+tools like VS code,Pycharm,Jupyter etc...
 
-Welcome to the main repository for SURE-A-THON 2.0! This readme file provides important information for participants who will be submitting their pull requests with their GitHub repository code.
+“Here we provide the installation process related links and
+all stuff without navigating those official websites for
+downloading tools .We connect that official websites via our
+website “.
 
-## Introduction
-Thank you for participating in our Hackathon! This repository serves as the central hub for participants to submit their code and showcase their projects. Please read the following sections carefully to ensure a smooth submission process.
+Why this ?
 
-## Hackathon Theme
-1.Rural youth empowerment
+  TechTools is a user-friendly website designed specifically for engineering Students, developers, and tech enthusiasts. Our platform serves as a one-stop destination for discovering and accessing a wide range of engineering tech tools, including Integrated Development Environments (IDEs), software libraries. With TechTools, finding and downloading the essential tools you need for your engineering projects has never been easier.
 
-2. Women Empowement
+Key Features:
+
+   Extensive Tool Collection: TechTools hosts an extensive collection of engineering tech tools across various domains such as software development, electronics, mechanical engineering, data science, and more. You'll find popular IDEs like Visual Studio, Eclipse, and PyCharm, as well as specialized tools like AutoCAD, MATLAB, and Arduino ...
+   
+  Direct Download Capability: With TechTools, you can download your chosen tools directly from our website. We provide secure and reliable download links, ensuring a seamless and hassle-free experience. Say goodbye to the frustration of navigating multiple websites to find and download the tools you need.
+
+   Regular Updates: Our team actively maintains and updates the tool repository to ensure that you have access to the latest versions and features. You can rely on TechTools to keep you up-to-date with the ever-evolving landscape of engineering tech tools.
+
+  Community Interaction: TechTools fosters a vibrant community where engineers, developers, and tech enthusiasts can connect, share insights, and discuss their favorite tools. Join forums, ask questions, and collaborate with like-minded individuals to enhance your knowledge and expand your network.
+
+   This is  still Developing Website...
+
+#Developers
+- [@Aysahkhan01 @anandrevanthkumar @Nagajyothirmayi-1599 @rupesh4950]
   
-3. Service to community
+(https://www.github.com/Ayshakhan01)
 
-## Submission Guidelines
-To submit your project for the Hackathon, please follow these guidelines:
+(https://www.github.com/anandrevanthkumar)
 
-1. Fork this repository to create your own copy.
-2. Clone your forked repository to your local machine.
-3. Create a new branch for your project. Use a descriptive branch name that reflects your project's name or feature.
-4. Add your project code to the appropriate folder or directory within the repository. Make sure to include all the necessary files and dependencies required to run your project.
-5. If applicable, include any documentation or instructions on how to set up and run your project. You can create a separate `README.md` file within your project folder to provide project-specific details.
-6. Commit your changes with a clear and descriptive commit message.
-7. Push your branch to your forked repository.
-8. Submit a pull request from your branch to the main repository.
-9. In the pull request description, provide a concise description of your project, including its purpose, features, and any additional relevant information.
-10. Ensure that your submission adheres to the evaluation criteria and any other guidelines specified in the readme file.
-11. Once your pull request is submitted, the judges will review your project. You may receive feedback or clarification requests during this process.
-12. Winners will be announced and contacted after the evaluation process is complete.
+(https://www.github.com/Nagajyothirmayi-1599)
 
-Please note:
-- Submissions must be original work created during the Hackathon period.
-- By submitting your project, you grant the organizers the right to review, evaluate, and showcase your work.
-
-If you have any questions or need assistance with the submission process, please reach out to the Hackathon organizers.
-
-Make sure to adapt these guidelines to fit your specific Hackathon requirements and provide any additional instructions or requirements that participants need to follow.
-
-
-## Contact Information
-For any queries reach out to <a href="https://www.linkedin.com/in/harshee-pitroda-790778212/">Harshee Pitroda</a>
-
----
-
-Thank you so much for participating
+(https://www.github.com/rupesh4950)
